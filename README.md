@@ -11,4 +11,4 @@ A video recording of the live demo is available on YouTube (start: at 18 minutes
 https://youtu.be/yxvROGxWys0?t=1099
 
 Here's the graphic produced from the live demo:
-![the graphic produced from the demo](covid19_rates_and_poverty_levels.png)
+![the graphic produced from the demo](covid19_mortality_by_poverty_levels.png)
